@@ -126,9 +126,9 @@ const DOM = {
 // Trabalhando com as virgulas e sinal "SUPER IMPORTANTE"
 const Utils = {
     formatAmount(value) {
-        value = Number(value) * 100
+        value = value * 100
 
-        return value
+        return Math.round(value)
     },
 
     formatDate(date) {
