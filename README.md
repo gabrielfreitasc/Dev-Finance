@@ -1,7 +1,7 @@
 <h1 align="center">💸Dev Finance💸</h1>
 
 <p>
-    <img alt="Projeto Dev Finance" src=".github/preview.png" width="100%">
+    <img alt="Projeto Dev Finance" src="assets/img/preview.png" width="100%">
 </p>
 
 
